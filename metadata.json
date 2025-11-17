@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Mines",
+  "description": "Um jogo de minas no estilo de cassino. Faça sua aposta, escolha o número de minas e clique nos blocos para revelar as gemas. Cada gema aumenta o multiplicador dos seus ganhos. Encontre todas as gemas ou retire o dinheiro antes de encontrar uma mina!",
+  "requestFramePermissions": []
+}
